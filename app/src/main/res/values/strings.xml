@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NESWTilt</string>
+    <string name="play">PLAY</string>
+    <string name="textview">TextView</string>
 </resources>

@@ -15,4 +15,17 @@
     <color name="red">#FFDF1C1C</color>
     <color name="blue">#02498F</color>
     <color name="grey">#FF757272</color>
+
+
+
+    <integer-array name="androidcolors">
+        <item>@color/blue</item>
+        <item>@color/yellow</item>
+        <item>@color/green</item>
+
+        <item>@color/red</item>
+
+    </integer-array>
+
+
 </resources>
